@@ -1,6 +1,4 @@
-import javax.crypto.Cipher;
-import javax.crypto.KeyGenerator;
-import javax.crypto.SecretKey;
+import javax.crypto.*;
 import java.util.Scanner;
 
 public class BlowFishCipher {
